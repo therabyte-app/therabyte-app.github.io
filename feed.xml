@@ -3,7 +3,7 @@
     <title>Therabyte Docs</title>
     <link href="https://therabyte-app.github.io/feed.xml" rel="self" />
     <link href="https://therabyte-app.github.io" />
-    <updated>2020-05-05T03:20:31-07:00</updated>
+    <updated>2020-05-05T04:08:08-07:00</updated>
     <author>
         <name>Therabyte</name>
     </author>
@@ -17,17 +17,16 @@
         <link href="https://therabyte-app.github.io/how-to-join-a-therabyte-meet-video-session-client/"/>
         <id>https://therabyte-app.github.io/how-to-join-a-therabyte-meet-video-session-client/</id>
 
-        <updated>2020-05-05T03:09:10-07:00</updated>
+        <updated>2020-05-05T03:38:17-07:00</updated>
             <summary>
                 <![CDATA[
-                    For security reasons, Therabyte functions best in Chrome. It is the recommended browser for modern development tools and top security features. For the Client: (On an iPad) –Chrome and safari 
+                    For security reasons, Therabyte functions best in Chrome. It is the recommended browser for modern development tools and top security features. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><span style="font-weight: 400;">For security reasons, </span><strong>Therabyte functions best in Chrome.</strong><span style="font-weight: 400;"> It is the recommended browser for modern development tools and top security features. </span></p>
-<p> </p>
-<p><strong>For the Client: (On an iPad) –Chrome and safari</strong></p>
+<h3 id="mcetoc_1e7i5valt8"><strong>For the Client: (On an iPad) – Chrome and Safari</strong></h3>
 <ol>
 <li><strong>Email reminder received with the option to login into your client portal. </strong><span style="font-weight: 400;">If you haven’t already logged into your client portal, take that time to find your welcome email and follow the steps to set up your login credentials. (see setting up client portal).<br><br><img class="post__image" src="https://therabyte-app.github.io/media/posts/1//login_to_client_portal_email_min.png" alt="" width="1220" height="1374"><br><br></span></li>
 <li><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Login – </strong><span style="font-weight: 400;">You will be redirected to the practitioner website if it is enabled with a login feature, if the website has not been enabled, you will be redirected to a login page.<br><br><img class="post__image" src="https://therabyte-app.github.io/media/posts/1//website_login_button.png" alt="" width="1536" height="624"><br><br></span></li>
